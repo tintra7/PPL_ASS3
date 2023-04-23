@@ -1,0 +1,10 @@
+
+ main: function void () {
+ x: auto = 5;
+ while (a())
+ x = a();
+ }
+ a: function auto() {
+ return true;
+ } 
+ 

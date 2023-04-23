@@ -1,0 +1,8 @@
+
+ x: function void (a: auto, b: integer) {
+ a = a + b;
+ }
+ main: function void () {
+ x(5, 6); // asssure that a is integer
+ } 
+ 

@@ -1,0 +1,9 @@
+
+ x: function auto () {
+ if (true) 
+ return true;
+ else
+ return 1;
+ }
+ main: function void () {} 
+ 

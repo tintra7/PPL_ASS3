@@ -1,0 +1,8 @@
+
+ return5: function void() {
+ return 5;
+ }
+ main: function void () {
+ a: integer = return5();
+ }
+ 

@@ -1,0 +1,12 @@
+
+ y: function void(inherit c: auto) {}
+ x: function void(a: integer) inherit y {
+ super(6);
+ a = c;
+ } 
+ z: function void(a: integer) inherit y {
+ preventDefault();
+ a = c; // error here, https://e-learning.hcmut.edu.vn/mod/forum/discuss.php?d=9112
+ }
+ main: function void () {}
+ 

@@ -1,0 +1,10 @@
+
+ y: function void(c: auto) {}
+ x: function void(a: integer) inherit y {
+ super(a);
+ }
+ main: function void () {
+ x(1);
+ y("a string");
+ }
+ 

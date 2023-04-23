@@ -1,0 +1,8 @@
+
+ x: function void (a: auto) {
+ i: integer;
+ a = i;
+ printBoolean(5 == a); // asssure that a is integer
+ }
+ main: function void () {} 
+ 

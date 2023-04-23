@@ -1,0 +1,7 @@
+
+ y: function void () {}
+ main: function void () inherit y {
+ super(1,2);
+ a: integer;
+ }
+ 

@@ -1,0 +1,13 @@
+
+ printArray: function void (arr: array[2] of integer) {
+ i: integer;
+ for (i = 0, i < 5, i % 2)
+ printInteger(arr[i]);
+ }
+ main: function void () {
+ a: array[3,2] of integer = {{1,2}, {3,4}, {6,7}};
+ printArray(a[1]);
+ i: integer;
+ for (i = a[0,99], i < 92929, i % a[1010,93939]) {}
+ } 
+ 

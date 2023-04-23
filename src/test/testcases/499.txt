@@ -1,0 +1,6 @@
+
+ foo: function void(a: integer){}
+ main: function void() {
+ foo(1, a); // https://e-learning.hcmut.edu.vn/mod/forum/discuss.php?d=8834#p25359
+ } 
+ 

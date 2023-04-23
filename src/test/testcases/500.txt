@@ -1,0 +1,9 @@
+
+ foo: function auto(a: integer){}
+ main: function void() {
+ x: boolean = 1 == true; // https://e-learning.hcmut.edu.vn/mod/forum/discuss.php?d=9221
+ y: array [1,2,3] of integer;
+ z: auto = y[1,1+1-0];
+ t: integer = foo(1, a);
+ } 
+ 

@@ -1,0 +1,14 @@
+
+ a: float = foo(1, 2) + 1.5;
+ foo: function auto(a: integer, b: integer) {
+ return a + b; 
+ }
+ x: function auto() {
+ printFloat(foo(1,2));
+ }
+ main: function void () inherit x {
+ //super(); // x return_type still remains auto after super call, not void
+ // just do as what the TA said
+ printInteger(x()); // now x return_type should become integer
+ } 
+ 

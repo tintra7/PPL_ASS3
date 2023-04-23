@@ -1,0 +1,9 @@
+
+ x: function auto(x: auto) {
+ x = 4; // param x type is inferred here
+ printInteger(x);
+ }
+ main: function void () {
+ printString(x(3)); // x return_type is inferred here
+ } 
+ 

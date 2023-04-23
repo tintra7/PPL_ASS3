@@ -1,0 +1,8 @@
+
+ x: function auto (a: auto, b: auto) {
+ while(true)
+ return true;
+ return 1;
+ }
+ main: function void () {} 
+ 

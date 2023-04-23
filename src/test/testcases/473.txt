@@ -1,0 +1,6 @@
+
+ main: function void () {
+ x(5, {1,2,3});
+ } 
+ x: function void (a: integer, a: auto) {} 
+ 

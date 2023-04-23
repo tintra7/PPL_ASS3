@@ -1,0 +1,7 @@
+
+ bar: function void () {}
+ foo: function auto() inherit bar {
+ preventDefault(4); // item 3, https://e-learning.hcmut.edu.vn/mod/forum/discuss.php?d=9403
+ }
+ main: function void () {} 
+ 

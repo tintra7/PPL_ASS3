@@ -1,0 +1,7 @@
+
+ y: function auto() {}
+ main: function void () {
+ a: auto = 5 + y() + 2.5;
+ printFloat(a);
+ } 
+ 

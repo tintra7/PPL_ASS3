@@ -1,0 +1,8 @@
+
+ x: function auto() inherit y {
+ super(kjhgfd);
+ a = hdhdhdhddhdhdhdh;
+ }
+ main: function void () {}
+ y: function auto(inherit a: auto, inherit b: auto, inherit a: auto, inherit b: integer) {} 
+ 

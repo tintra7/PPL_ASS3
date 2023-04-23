@@ -1,0 +1,9 @@
+
+ x: function auto(x: auto) {
+ x = 4;
+ printInteger(x);
+ }
+ main: function void () {
+ x(4,6); // error ref: https://e-learning.hcmut.edu.vn/mod/forum/discuss.php?d=8891
+ } 
+ 

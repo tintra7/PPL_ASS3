@@ -1,0 +1,10 @@
+
+ y: function void (a: string) {}
+ x: function void (a: auto) {
+ y(a);
+ b: string = a :: "Hello"; // asssure that a is string
+ }
+ main: function void () {
+ x(5);
+ } 
+ 

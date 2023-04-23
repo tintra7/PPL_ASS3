@@ -1,0 +1,10 @@
+
+
+ main: function void () {
+ a: integer;
+ i: integer;
+ for (i = 3, i <= a, a) {
+ i: integer = i;
+ }
+ }
+ 

@@ -1,0 +1,9 @@
+
+ x: function void (a: auto, b: auto) {
+ c: integer = a;
+ printBoolean(5 == a); // asssure that a is integer
+ e: string = b;
+ f: string = e :: "Hello"; // asssure that a is string
+ }
+ main: function void () {} 
+ 

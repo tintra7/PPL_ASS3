@@ -1,0 +1,6 @@
+
+ main: function void () {
+ c();
+ }
+ c: function void() {}
+ 

@@ -1,0 +1,9 @@
+
+ x: integer;
+ mainx: function void (x: string) {
+ {
+ x: boolean;
+ }
+ } 
+ main: function void () {}
+ 

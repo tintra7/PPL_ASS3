@@ -1,0 +1,8 @@
+
+ foo: function auto() {}
+ main: function void () {
+ a: array[2,3] of integer = foo();
+ b: auto = foo();
+ c: array[3] of integer = b[0];
+ } 
+ 

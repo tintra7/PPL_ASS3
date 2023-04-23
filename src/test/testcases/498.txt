@@ -1,0 +1,12 @@
+
+ y: float = -foo(1,1); 
+ foo: function auto(a: auto, b:auto){
+ x: auto = a;
+ } 
+ bar: function void() {}
+ main: function void() {
+ bar: integer = 1;
+ x: float = bar();
+ x = bar;
+ } 
+ 

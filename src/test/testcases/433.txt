@@ -1,0 +1,9 @@
+
+ nothing: function void() {}
+ ok: function void(a: integer, b: array[3] of integer) inherit nothing {
+ return;
+ }
+ main: function void () {
+ ok(3, {1,2,3});
+ }
+ 

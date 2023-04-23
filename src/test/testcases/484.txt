@@ -1,0 +1,12 @@
+
+ x: function auto() {}
+ y: function auto() {}
+ z: function auto() {}
+ t: function auto() {}
+ m: function auto() {}
+ main: function void () {
+ a: auto = z() && y() == false || (t() + m() + 1 < x());
+ printInteger(t());
+ printInteger(x());
+ } 
+ 

@@ -1,0 +1,8 @@
+
+ main: function void () {
+ // ref for the error: https://e-learning.hcmut.edu.vn/mod/forum/discuss.php?d=9023
+ x();
+ }
+ x: function auto() {}
+ x: function auto(a: auto, b: auto) {}
+ 

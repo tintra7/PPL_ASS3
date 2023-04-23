@@ -1,0 +1,7 @@
+
+ y: function void(inherit c: auto, d: auto, e: auto) {}
+ x: function void(a: integer) inherit y {
+ super(5,6); // error here
+ } 
+ main: function void () {}
+ 

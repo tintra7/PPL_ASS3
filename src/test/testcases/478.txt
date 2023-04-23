@@ -1,0 +1,7 @@
+
+ y: function auto() {}
+ main: function void () {
+ a: auto = true && y() == false || (5 < 5.5);
+ printBoolean(a);
+ } 
+ 

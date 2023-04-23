@@ -1,0 +1,5 @@
+
+ main: function void () {}
+ a: function void() {}
+ b: function void(a: integer, a: string) inherit a {}
+ 

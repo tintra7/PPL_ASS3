@@ -1,0 +1,4 @@
+
+ main: integer;
+ main: function void () {}
+ 

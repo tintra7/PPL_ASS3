@@ -1,0 +1,8 @@
+
+ y: function auto() {}
+ x: function void (a: auto) {
+ a = a + y() + 1;
+ printInteger(a + y());
+ }
+ main: function void () {} 
+ 

@@ -1,0 +1,10 @@
+
+ x: function void(inherit a: integer) {}
+ y: function void(inherit b: string) inherit x {
+ preventDefault();
+ }
+ z: function void (a: boolean) inherit y {
+ super("a string");
+ }
+ main: function void () {}
+ 

@@ -1,0 +1,9 @@
+
+ x: function auto() {}
+ main: function void () {
+ // according to https://e-learning.hcmut.edu.vn/mod/forum/discuss.php?d=8936
+ // func in call stmt will no longer be inferred to void anymore
+ x();
+ a: integer = x(); // now it become int
+ } 
+ 

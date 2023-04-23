@@ -1,0 +1,6 @@
+
+ main: function void () {
+ a: array[2] of integer;
+ a["a string"] = 5;
+ }
+ 

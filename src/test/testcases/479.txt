@@ -1,0 +1,13 @@
+
+ x: function auto() {}
+ y: function auto() {}
+ z: function auto() {}
+ t: function auto() {}
+ m: function auto() {}
+ main: function void () {
+ a: auto = z() && y() == false || (5 < x());
+ printBoolean(a);
+ b: auto = m() :: (t() :: "sfdgd");
+ printString(b);
+ } 
+ 

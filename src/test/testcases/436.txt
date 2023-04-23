@@ -1,0 +1,9 @@
+
+ main: function void () {
+ a: auto = false;
+ if (a) {
+ a: auto = 3;
+ } else
+ main();
+ }
+ 

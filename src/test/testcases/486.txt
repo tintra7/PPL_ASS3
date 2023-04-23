@@ -1,0 +1,11 @@
+
+ x: function auto() {}
+ main: function void () {
+ a: auto = -5 + 2 + x();
+ printInteger(a);
+ printFloat(a);
+ b: auto = -5 * 2e5 / x();
+ printFloat(b); 
+ printInteger(b); // error here
+ } 
+ 

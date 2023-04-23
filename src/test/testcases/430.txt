@@ -1,0 +1,8 @@
+
+ return5: function integer() {
+ return 5;
+ }
+ main: function void () {
+ return5(); // thay noi ok tren forum
+ }
+ 

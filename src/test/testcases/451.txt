@@ -1,0 +1,10 @@
+
+ x: function string (a: integer) {
+
+ }
+ y: function void () {}
+
+ main: function void () inherit y {
+ a: integer;
+ }
+ 

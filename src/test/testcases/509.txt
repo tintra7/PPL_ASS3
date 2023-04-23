@@ -1,0 +1,9 @@
+
+ x: function auto () {
+ y("string", 4);
+ }
+ main: function void () {} 
+ y: function auto (a: auto, b: integer) {
+ x: integer = a + b;
+ }
+ 

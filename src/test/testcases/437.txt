@@ -1,0 +1,11 @@
+
+ a: function auto() {
+ return true;
+ }
+ main: function void () {
+ if (a()) {
+ a: auto = 3;
+ } else
+ main();
+ }
+ 

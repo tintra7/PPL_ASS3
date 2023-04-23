@@ -1,0 +1,4 @@
+
+ super: string;
+ main: function void () {} 
+ 
